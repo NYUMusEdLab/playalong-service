@@ -1,0 +1,25 @@
+{
+  "songId": "a07c2aea-797a-4277-9836-4f6a5d007db7",
+  "associatedIds": {
+    "youtube": ["DVg2EJvvlF8"],
+    "spotify": ["spotify:track:7pKfPomDEeI4TPT6EOYjn9"],
+    "vimeo": ["17854149"]
+  },
+  "features": {
+    "mainKey": "D#",
+    "scale": "major",
+    "timebasedKey": [
+      {
+        "start": 0,
+        "end": 20,
+        "key": "A"
+      },
+      {
+        "start": 21,
+        "end": 50,
+        "key": "F"
+      }
+      ...
+    ]
+  }
+}
